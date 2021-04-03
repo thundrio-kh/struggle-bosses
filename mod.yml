@@ -1,0 +1,816 @@
+assets:
+- method: binarc
+  name: ard/al03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/al03/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/bb03/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/bb05/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: files/bb05/b_41.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: files/bb05/b_99.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb11.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/bb11/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: files/bb11/b_99.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/bb15.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: files/bb15/b_60.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/bb15/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca01.ard
+  source:
+  - method: spawnpoint
+    name: b_61
+    source:
+    - name: files/ca01/b_61.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca10.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/ca10/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/ca18.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: files/ca18/b_60.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/dc07.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/dc07/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh10.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh10/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/eh10/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh14.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh14/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/eh14/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh15.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh15/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/eh15/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh19.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh19/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/eh19/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh20.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh20/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/eh20/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh21.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh21/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/eh21/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh23.ard
+  source:
+  - method: spawnpoint
+    name: b_97
+    source:
+    - name: files/eh23/b_97.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: files/eh23/b_99.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/eh24.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/eh24/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: files/eh24/b_99.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb01.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: files/hb01/b_60.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb04.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/hb04/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/hb04/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb32.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/hb32/b_80.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: files/hb32/b_81.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb33.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/hb33/b_80.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: files/hb33/b_81.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_82
+    source:
+    - name: files/hb33/b_82.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_83
+    source:
+    - name: files/hb33/b_83.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_84
+    source:
+    - name: files/hb33/b_84.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_85
+    source:
+    - name: files/hb33/b_85.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb34.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/hb34/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/hb38.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/hb38/b_80.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_81
+    source:
+    - name: files/hb38/b_81.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/he05/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he07.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/he07/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he08.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: files/he08/b_41.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he09.ard
+  source:
+  - method: spawnpoint
+    name: b_a0
+    source:
+    - name: files/he09/b_a0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_b0
+    source:
+    - name: files/he09/b_b0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_c0
+    source:
+    - name: files/he09/b_c0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_d0
+    source:
+    - name: files/he09/b_d0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_h0
+    source:
+    - name: files/he09/b_h0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_h5
+    source:
+    - name: files/he09/b_h5.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_i0
+    source:
+    - name: files/he09/b_i0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_i5
+    source:
+    - name: files/he09/b_i5.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_j0
+    source:
+    - name: files/he09/b_j0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_j5
+    source:
+    - name: files/he09/b_j5.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_k0
+    source:
+    - name: files/he09/b_k0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_l0
+    source:
+    - name: files/he09/b_l0.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_l8
+    source:
+    - name: files/he09/b_l8.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_l9
+    source:
+    - name: files/he09/b_l9.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_r0
+    source:
+    - name: files/he09/b_r0.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he17.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/he17/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he18.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/he18/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/he19.ard
+  source:
+  - method: spawnpoint
+    name: b_62
+    source:
+    - name: files/he19/b_62.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_63
+    source:
+    - name: files/he19/b_63.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk14.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/lk14/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/lk15.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: files/lk15/b_60.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu08.ard
+  source:
+  - method: spawnpoint
+    name: b_61
+    source:
+    - name: files/mu08/b_61.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/mu09.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/mu09/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/nm03/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm07.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: files/nm07/b_60.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: files/nm07/b_99.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/nm09.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/nm09/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr04.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/tr04/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tr09.ard
+  source:
+  - method: spawnpoint
+    name: b_60
+    source:
+    - name: files/tr09/b_60.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_61
+    source:
+    - name: files/tr09/b_61.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_99
+    source:
+    - name: files/tr09/b_99.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt03.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: files/tt03/b_41.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt04.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: files/tt04/b_41.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_42
+    source:
+    - name: files/tt04/b_42.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_45
+    source:
+    - name: files/tt04/b_45.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_50
+    source:
+    - name: files/tt04/b_50.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_51
+    source:
+    - name: files/tt04/b_51.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_52
+    source:
+    - name: files/tt04/b_52.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt05.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/tt05/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: files/tt05/b_41.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_43
+    source:
+    - name: files/tt05/b_43.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_44
+    source:
+    - name: files/tt05/b_44.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt20.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/tt20/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/tt20/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt34.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/tt34/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/tt41.ard
+  source:
+  - method: spawnpoint
+    name: b_80
+    source:
+    - name: files/tt41/b_80.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi01.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/wi01/b_40.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/wi03.ard
+  source:
+  - method: spawnpoint
+    name: b_40
+    source:
+    - name: files/wi03/b_40.yml
+    type: AreaDataSpawn
+- method: copy
+  name: msn/jp/AL03_MS103.bar
+  source:
+  - name: files/msns/AL03_MS103
+- method: copy
+  name: msn/jp/BB03_MS103.bar
+  source:
+  - name: files/msns/BB03_MS103
+- method: copy
+  name: msn/jp/BB05_MS104A.bar
+  source:
+  - name: files/msns/BB05_MS104A
+- method: copy
+  name: msn/jp/BB05_MS104B.bar
+  source:
+  - name: files/msns/BB05_MS104B
+- method: copy
+  name: msn/jp/BB11_MS102.bar
+  source:
+  - name: files/msns/BB11_MS102
+- method: copy
+  name: msn/jp/BB15_MS203.bar
+  source:
+  - name: files/msns/BB15_MS203
+- method: copy
+  name: msn/jp/BB15_MS203_RE.bar
+  source:
+  - name: files/msns/BB15_MS203_RE
+- method: copy
+  name: msn/jp/CA18_MS202.bar
+  source:
+  - name: files/msns/CA18_MS202
+- method: copy
+  name: msn/jp/CA10_MS107.bar
+  source:
+  - name: files/msns/CA10_MS107
+- method: copy
+  name: msn/jp/CA01_MS204.bar
+  source:
+  - name: files/msns/CA01_MS204
+- method: copy
+  name: msn/jp/DC07_FM_NAZO.bar
+  source:
+  - name: files/msns/DC07_FM_NAZO
+- method: copy
+  name: msn/jp/EH10_MS102.bar
+  source:
+  - name: files/msns/EH10_MS102
+- method: copy
+  name: msn/jp/EH14_MS103.bar
+  source:
+  - name: files/msns/EH14_MS103
+- method: copy
+  name: msn/jp/EH15_MS104.bar
+  source:
+  - name: files/msns/EH15_MS104
+- method: copy
+  name: msn/jp/EH19_MS105.bar
+  source:
+  - name: files/msns/EH19_MS105
+- method: copy
+  name: msn/jp/EH20_MS113.bar
+  source:
+  - name: files/msns/EH20_MS113
+- method: copy
+  name: msn/jp/EH20_MS113_RE.bar
+  source:
+  - name: files/msns/EH20_MS113_RE
+- method: copy
+  name: msn/jp/EH21_MS101.bar
+  source:
+  - name: files/msns/EH21_MS101
+- method: copy
+  name: msn/jp/EH23_MS112.bar
+  source:
+  - name: files/msns/EH23_MS112
+- method: copy
+  name: msn/jp/EH24_MS110.bar
+  source:
+  - name: files/msns/EH24_MS110
+- method: copy
+  name: msn/jp/HB01_MS601.bar
+  source:
+  - name: files/msns/HB01_MS601
+- method: copy
+  name: msn/jp/HB04_MS403.bar
+  source:
+  - name: files/msns/HB04_MS403
+- method: copy
+  name: msn/jp/HB33_FM_VEX.bar
+  source:
+  - name: files/msns/HB33_FM_VEX
+- method: copy
+  name: msn/jp/HB33_FM_LEX.bar
+  source:
+  - name: files/msns/HB33_FM_LEX
+- method: copy
+  name: msn/jp/HB33_FM_LAR.bar
+  source:
+  - name: files/msns/HB33_FM_LAR
+- method: copy
+  name: msn/jp/HB34_FM_ZEX.bar
+  source:
+  - name: files/msns/HB34_FM_ZEX
+- method: copy
+  name: msn/jp/HB38_FM_MAR.bar
+  source:
+  - name: files/msns/HB38_FM_MAR
+- method: copy
+  name: msn/jp/HE05_MS102.bar
+  source:
+  - name: files/msns/HE05_MS102
+- method: copy
+  name: msn/jp/HE07_MS103.bar
+  source:
+  - name: files/msns/HE07_MS103
+- method: copy
+  name: msn/jp/HE08_MS107.bar
+  source:
+  - name: files/msns/HE08_MS107
+- method: copy
+  name: msn/jp/HE17_MS105.bar
+  source:
+  - name: files/msns/HE17_MS105
+- method: copy
+  name: msn/jp/HE18_MS108.bar
+  source:
+  - name: files/msns/HE18_MS108
+- method: copy
+  name: msn/jp/LK14_MS103.bar
+  source:
+  - name: files/msns/LK14_MS103
+- method: copy
+  name: msn/jp/LK15_MS202.bar
+  source:
+  - name: files/msns/LK15_MS202
+- method: copy
+  name: msn/jp/MU08_MS204.bar
+  source:
+  - name: files/msns/MU08_MS204
+- method: copy
+  name: msn/jp/MU09_MS108.bar
+  source:
+  - name: files/msns/MU09_MS108
+- method: copy
+  name: msn/jp/NM03_MS103.bar
+  source:
+  - name: files/msns/NM03_MS103
+- method: copy
+  name: msn/jp/NM07_MS204.bar
+  source:
+  - name: files/msns/NM07_MS204
+- method: copy
+  name: msn/jp/NM09_MS104.bar
+  source:
+  - name: files/msns/NM09_MS104
+- method: copy
+  name: msn/jp/TR04_MS104.bar
+  source:
+  - name: files/msns/TR04_MS104
+- method: copy
+  name: msn/jp/TR09_MS204.bar
+  source:
+  - name: files/msns/TR09_MS204
+- method: copy
+  name: msn/jp/TT04_MS500.bar
+  source:
+  - name: files/msns/TT04_MS500
+- method: copy
+  name: msn/jp/TT05_MS401.bar
+  source:
+  - name: files/msns/TT05_MS401
+- method: copy
+  name: msn/jp/TT05_MS405.bar
+  source:
+  - name: files/msns/TT05_MS405
+- method: copy
+  name: msn/jp/TT05_AXEL.bar
+  source:
+  - name: files/msns/TT05_AXEL
+- method: copy
+  name: msn/jp/TT20_MS603.bar
+  source:
+  - name: files/msns/TT20_MS603
+- method: copy
+  name: msn/jp/TT20_MS603_RE.bar
+  source:
+  - name: files/msns/TT20_MS603_RE
+- method: copy
+  name: msn/jp/TT34_MS304.bar
+  source:
+  - name: files/msns/TT34_MS304
+- method: copy
+  name: msn/jp/WI01_MS101.bar
+  source:
+  - name: files/msns/WI01_MS101
+- method: copy
+  name: msn/jp/WI03_MS104.bar
+  source:
+  - name: files/msns/WI03_MS104
+description: 'Makes every boss battle a struggle fight. Currently BROKEN as the game does not progress after the struggle fight ends
+  Compatible with GOA mod. Report any bugs at https://github.com/thundrio-kh/struggle-bosses/issues'
+originalAuthor: Thundrio
+title: Struggle Boss Fights [BROKEN]
